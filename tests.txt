@@ -1,2 +1,7 @@
-# 1行に「入力 期待出力」を書く。例:  3 OK
-# -1, 0, 9, 10 の4つは必ず含めること。
+echo -3 | ./main
+echo 0 | ./main
+echo 1 | ./main
+echo 8 | ./main
+echo 9 | ./main
+echo 10 | ./main
+echo 20 | ./main

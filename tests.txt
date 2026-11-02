@@ -1,7 +1,8 @@
-echo -3 | ./main
-echo 0 | ./main
-echo 1 | ./main
-echo 8 | ./main
-echo 9 | ./main
-echo 10 | ./main
-echo 20 | ./main
+-3 NG
+-1 NG
+0 OK
+1 OK
+8 OK
+9 OK
+10 NG
+20 NG
